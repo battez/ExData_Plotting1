@@ -2,7 +2,7 @@
 # by battez
 # plot3.R
 
-# Reconstruct Plot 3 of the assignment. 
+# Reconstruct Plot 3 of the assignment. MultiLine plot 
 # 
 # code for reading the data
 # load all the lines in.

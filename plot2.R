@@ -2,7 +2,7 @@
 # by battez
 # plot2.R
 
-# Reconstruct Plot 2 of the assignment. 
+# Reconstruct Plot 2 of the assignment.  Plot plus Line
 # 
 # code for reading the data
 # load all the lines in.
